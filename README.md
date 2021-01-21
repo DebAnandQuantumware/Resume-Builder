@@ -1,4 +1,4 @@
-# Resume Builder (Spring boot)
+# Resume Builder (Spring boot) Thanks Cyela
 
 Resume builder application provides interactive user interface to collect and provide a downloadable PDF version of his/her resume. This project provides the API services for the front end project (https://github.com/cyela/Resume-builder-UI) to create and send pdf version resume
 * Technologies
